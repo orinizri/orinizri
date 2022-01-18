@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @orinizri
+- 👀 I’m interested in frontend and backend technologies
+- 🌱 I’m currently learning Node.js and mongoDB
+- 📫 Email: ori.nizri.tal@gmail.com
+- 🎉 LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/

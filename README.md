@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @orinizri
-- 👀 I’m interested in frontend and backend technologies
-- 🌱 I’m currently learning Node.js and mongoDB
+- 👀 I’m a full stack developer
+- 🌱 I’m currently learning data structures 
 - 📫 Email: ori.nizri.tal@gmail.com
-- 🎉 LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/
+- :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/ Feel free to connect with me!
+- :bar_chart: I am also into statistics, data analysis and user experience
+- :books: Main stack: HTML, CSS, JavaScript, React, Node.js, mongoDB, PostgreSQL

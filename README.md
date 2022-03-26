@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning data structures 
 - 📫 Email: ori.nizri.tal@gmail.com
 - :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/ Feel free to connect with me!
-- :bar_chart: I am also into statistics, data analysis and user experience
-- :books: Main stack: HTML, CSS, JavaScript, React, Node.js, mongoDB, PostgreSQL
+- :bar_chart: I am also into data analysis and user experience
+- :books: Main stack: HTML, CSS, JavaScript, Python, React, Node.js, mongoDB, PostgreSQL

@@ -2,7 +2,7 @@
 - 👀 I’m a full stack developer
 - :bar_chart: I'm also into data analysis and UX/UI (as all cognitive psychologists are :wink:)
 - 🌱 I’m currently learning algorithms and data structures.
-- :art: Additional interests and hobbies: My dog Chillie :dog2:, Yoga, Sports+Gym, Web3, Machine learning, Cyber security
+- :art: Additional interests and hobbies: My dog Chillie :dog2:, Yoga, Sports+Gym, Machine learning, Cyber security
 - 📫 Email: ori.nizri.tal@gmail.com
 - :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/. I'm happy to meet new people and to share knowledge!
 - :books: My Main stack: HTML, CSS, JavaScript, Python, React, Node.js, mongoDB, PostgreSQL

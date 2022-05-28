@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ori Nizri Tal
 - 👀 I’m a full stack developer
-- :bar_chart: I'm also into data analysis and UX/UI (as all cognitive psychologists are :wink:)
+- :bar_chart: I'm also into data analysis and UX/UI:)
 - 🌱 I’m currently learning algorithms and data structures.
 - :art: Additional interests and hobbies: My dog Chillie :dog2:, Yoga, Sports+Gym, Machine learning, Cyber security
 - 📫 Email: ori.nizri.tal@gmail.com

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ori Nizri Tal
 - 👀 I’m a full stack developer
 - :bar_chart: I'm also into data analysis and UX/UI:)
-- 🌱 I’m currently learning algorithms and data structures.
+- 🌱 I’m currently learning Nestjs, TypeORM, Graphql and Angular.
 - :art: Additional interests and hobbies: My dog Chillie :dog2:, Yoga, Sports+Gym, Machine learning, Cyber security
 - 📫 Email: ori.nizri.tal@gmail.com
 - :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/. I'm happy to meet new people and to share knowledge!

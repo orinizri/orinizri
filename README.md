@@ -2,7 +2,7 @@
 - 👀 I’m a full stack developer
 - :bar_chart: I'm also into data analysis and UX/UI:)
 - 🌱 I’m currently learning Nestjs, TypeORM, Graphql and Angular.
-- :art: Additional interests and hobbies: My dog Chillie :dog2:, Yoga, Sports+Gym, Machine learning, Cyber security
+- :art: Additional interests and hobbies: Yoga, Sports+Gym, Machine learning, Cyber security, flutter
 - 📫 Email: ori.nizri.tal@gmail.com
 - :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/. I'm happy to meet new people and to share knowledge!
 - :books: My Main stack: HTML, CSS, JavaScript, Python, React, Node.js, mongoDB, PostgreSQL

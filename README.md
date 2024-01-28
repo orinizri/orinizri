@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ori Nizri Tal
 - 👀 I’m a full stack developer
-- :bar_chart: I'm also into data analysis and UX/UI:)
-- 🌱 I’m currently learning Nestjs, TypeORM, Graphql and Flutter.
+- :bar_chart: I'm also into data science and UX/UI:)
+- 🌱 I’m currently learning Nestjs, TypeORM, GraphQL and Flutter.
 - :art: Additional interests and hobbies: Yoga, Sports+Gym, Machine learning, Cyber security
 - 📫 Email: ori.nizri.tal@gmail.com
-- :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/. I'm happy to meet new people and to share knowledge!
-- :books: My Main stack: HTML, CSS, JavaScript, Python, React, Node.js, mongoDB, PostgreSQL
+- :coffee: LinkedIn: https://www.linkedin.com/in/ori-nizri-tal/. I'm happy to meet new people and share knowledge!
+- :books: My Main stack: HTML, CSS, JavaScript, Python, Flutter, Node.js, mongoDB and SQL
